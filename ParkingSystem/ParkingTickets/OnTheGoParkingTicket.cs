@@ -51,6 +51,10 @@
                 {
                     throw new ArgumentException("Резервацията ви не може да бъде по-дълга от 1 ден. През уикенда по-дълги резерации са възможни. (OnTheGoParkingTicketError)");
                 }
+                else if ((endingDate - startingDate).TotalHours > 48)
+                {
+                    throw new ArgumentException("Вашета резервация през уикенда не може да бъде повече от 48 часа (OnTheGoParkingTicketError)");
+                }
             }
 
             Console.Write("Напишете кое парково място искате да запазите : ");

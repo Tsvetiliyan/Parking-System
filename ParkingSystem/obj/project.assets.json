@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tsvetiliyan\\source\\repos\\ParkingSystemFINAL\\ParkingSystem\\ParkingSystem.csproj",
+      "projectUniqueName": "C:\\Users\\Tsvetiliyan\\Source\\Repos\\Parking-System\\ParkingSystem\\ParkingSystem.csproj",
       "projectName": "ParkingSystem",
-      "projectPath": "C:\\Users\\Tsvetiliyan\\source\\repos\\ParkingSystemFINAL\\ParkingSystem\\ParkingSystem.csproj",
+      "projectPath": "C:\\Users\\Tsvetiliyan\\Source\\Repos\\Parking-System\\ParkingSystem\\ParkingSystem.csproj",
       "packagesPath": "C:\\Users\\Tsvetiliyan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tsvetiliyan\\source\\repos\\ParkingSystemFINAL\\ParkingSystem\\obj\\",
+      "outputPath": "C:\\Users\\Tsvetiliyan\\Source\\Repos\\Parking-System\\ParkingSystem\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Tsvetiliyan\\AppData\\Roaming\\NuGet\\NuGet.Config",

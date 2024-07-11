@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tsvetiliyan\\source\\repos\\Parking-System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F17841F-B318-4CF8-8A28-48BEDEAE3FCA}|ParkingSystem\\ParkingSystem.csproj|c:\\users\\tsvetiliyan\\source\\repos\\parking-system\\parkingsystem\\parkingtickets\\onthegoparkingticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F17841F-B318-4CF8-8A28-48BEDEAE3FCA}|ParkingSystem\\ParkingSystem.csproj|solutionrelative:parkingsystem\\parkingtickets\\onthegoparkingticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F17841F-B318-4CF8-8A28-48BEDEAE3FCA}|ParkingSystem\\ParkingSystem.csproj|c:\\users\\tsvetiliyan\\source\\repos\\parking-system\\parkingsystem\\parkingsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7F17841F-B318-4CF8-8A28-48BEDEAE3FCA}|ParkingSystem\\ParkingSystem.csproj|solutionrelative:parkingsystem\\parkingsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OnTheGoParkingTicket.cs",
+              "DocumentMoniker": "C:\\Users\\Tsvetiliyan\\source\\repos\\Parking-System\\ParkingSystem\\ParkingTickets\\OnTheGoParkingTicket.cs",
+              "RelativeDocumentMoniker": "ParkingSystem\\ParkingTickets\\OnTheGoParkingTicket.cs",
+              "ToolTip": "C:\\Users\\Tsvetiliyan\\source\\repos\\Parking-System\\ParkingSystem\\ParkingTickets\\OnTheGoParkingTicket.cs",
+              "RelativeToolTip": "ParkingSystem\\ParkingTickets\\OnTheGoParkingTicket.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAowDcAAABxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T04:56:04.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ParkingSystem",
+              "DocumentMoniker": "C:\\Users\\Tsvetiliyan\\Source\\Repos\\Parking-System\\ParkingSystem\\ParkingSystem.csproj",
+              "RelativeDocumentMoniker": "ParkingSystem\\ParkingSystem.csproj",
+              "ToolTip": "C:\\Users\\Tsvetiliyan\\Source\\Repos\\Parking-System\\ParkingSystem\\ParkingSystem.csproj",
+              "RelativeToolTip": "ParkingSystem\\ParkingSystem.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-11T04:55:55.804Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
